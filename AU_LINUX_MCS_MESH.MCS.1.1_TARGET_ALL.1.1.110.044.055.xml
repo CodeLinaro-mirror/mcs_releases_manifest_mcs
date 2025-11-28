@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="clo" fetch="https://git.codelinaro.org" review="codelinaro.org"/>
+  <default remote="clo" revision="MESH.MCS.1.1"/>
+  <project name="clo/qsdk/oss/prpl-foundation/prplos/feeds/feed-prplmesh" path="qsdk/qca/feeds/feed_prplmesh" revision="0515f7742c8d138680f63dc3f88a4852e6ea6aa1" upstream="MESH.MCS.1.1"/>
+</manifest>
