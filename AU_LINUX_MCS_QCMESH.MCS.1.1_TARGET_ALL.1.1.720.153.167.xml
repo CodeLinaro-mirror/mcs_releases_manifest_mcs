@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="clo" fetch="https://git.codelinaro.org" review="codelinaro.org"/>
+  <default remote="clo" revision="QCMESH.MCS.1.1"/>
+  <project name="clo/qsdk/oss/hyfi/qca-hyfi-bridge" path="qsdk/qca/src/qca-hyfi-bridge" revision="c099115abf1e4235fd8127aaad3cc1b7f5cb1600" upstream="QCMESH.MCS.1.1"/>
+  <project name="clo/qsdk/oss/system/openwrt/feeds/hyfi" path="qsdk/qca/feeds/hyfi-oss" revision="4f40798f3af543fa56443fa7e956bc8c0745298e" upstream="QCMESH.MCS.1.1"/>
+</manifest>
