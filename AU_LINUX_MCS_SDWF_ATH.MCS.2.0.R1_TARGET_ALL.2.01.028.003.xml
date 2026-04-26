@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="clo" fetch="https://git.codelinaro.org" review="codelinaro.org"/>
+  <default remote="clo" revision="SDWF_ATH.MCS.2.0.r1"/>
+  <project name="clo/qsdk/oss/qca/feeds/qca-rsrcmgr/driver" path="qsdk/qca/feeds/qca-rsrcmgr/qca-rsrcmgr/driver" revision="e1beba029746fdeeeaec4b38379ec6cf1e4e87ca" upstream="SDWF.MCS.2.0.r1"/>
+  <project name="clo/qsdk/oss/qca/src/qca-rsrcmgr/driver" path="qsdk/qca/src/qca-rsrcmgr/driver" revision="d3364b510d6c04711e912ccb0e1cfe2ef1cdedd7" upstream="SDWF.MCS.2.0.r1"/>
+</manifest>
