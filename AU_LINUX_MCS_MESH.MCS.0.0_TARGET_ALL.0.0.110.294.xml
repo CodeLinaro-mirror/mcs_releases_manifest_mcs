@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="clo" fetch="https://git.codelinaro.org" review="codelinaro.org"/>
+  <default remote="clo" revision="mesh.mcs.0.0"/>
+  <project name="clo/qsdk/oss/prpl-foundation/prplos/feeds/feed-amx" path="qsdk/qca/feeds/feed_amx" revision="8d4aaff276c86846ccf051112b51d168350f6713"/>
+  <project name="clo/qsdk/oss/prpl-foundation/prplos/feeds/feed-prplmesh" path="qsdk/qca/feeds/feed_prplmesh" revision="785da4d827eddbdc289fa91b012510fe90e02823" upstream="qmesh-1.2"/>
+  <project name="clo/qsdk/oss/prpl-foundation/prplos/feeds/feed_prplos" path="qsdk/qca/feeds/feed_prplos" revision="18072ac2a46521eaf2a770c30b7c322b11ca638b"/>
+</manifest>
